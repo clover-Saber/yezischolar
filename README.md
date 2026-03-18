@@ -1,6 +1,7 @@
 # 椰子学术
 
 一个 Zotero 插件，用于将文库中的文章同步到椰子学术，并生成文献综述。
+
 https://github.com/clover-Saber/yezischolar.git
 
 ## 安装
